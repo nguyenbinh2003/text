@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.div1 {
+    border-radius: 15px;
+    background-color: #FFFFFF;
+    
+}
+
+.div {
+    
+    background-color: #BFC8E6;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    padding: 110px;
+}
+
+#div {
+   position: absolute;
+   width: 1213px;
+   height: 854px;
+   padding-top: 173px;
+   padding-left: 193px; 
+   background-color: #FFFFFF;
+}
+
+input {
+    border-radius: 5px;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
